@@ -1,1 +1,2 @@
+# BMI Insurance Correlation
 In this project, we aim to investigate the correlation between the Body Mass Index (BMI) of diabetic individuals and their health insurance claim amounts. Insurance claim analysis helps insurance companies to detect fraud claims and predict future claims and risks. Moreover, by monitoring the historical claim data, insurance companies can create new insurance products to conform to new trends that are detected from the claim data to maximize company profits. 
